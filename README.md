@@ -1,6 +1,3 @@
-# Dino
-Handheld high power networking tool for analyzing and interacting with wired and wireless networks, devices.
-
 ---
 title: "Dino"
 github: "https://github.com/kossa520/Dino"
